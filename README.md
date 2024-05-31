@@ -1,2 +1,3 @@
 👋 Hello, World!
-See ChanHsing1972.github.io
+
+See more info about me at [ChanHsing1972.github.io/about](ChanHsing1972.github.io/about)
